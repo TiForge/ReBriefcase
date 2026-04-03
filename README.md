@@ -1,3 +1,6 @@
+# Disclaimer
+It is recommended you keep a backup of valuable files. ReBriefcase is capable of deleting or merging files.
+
 # What is ReBriefcase
 Aims to recreate the briefcases found in Windows 7, with better conflict detections and a cleaner UI. Not compatable with native briefcases.
 
